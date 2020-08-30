@@ -1,1 +1,1 @@
-# Initial repository foe some personal json files.
+# Initial repository for some personal json files.
